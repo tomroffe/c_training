@@ -14,3 +14,4 @@ set(CMAKE_C_STANDARD_REQUIRED YES)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/bin")
 
 add_subdirectory(cipher)
+add_subdirectory(hello_world)
