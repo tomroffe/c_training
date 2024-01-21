@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.28.1)
 
 # Prject Name
 project(
-  training
+  c-programming-training
   LANGUAGES C
   VERSION 0.1.0
   HOMEPAGE_URL https://github.com/tomroffe/c_training

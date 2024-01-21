@@ -73,3 +73,5 @@ _deps
 *-prefix/
 
 bin/
+.cmake/
+**/.DS_Store
